@@ -2,7 +2,9 @@
 
 A high-performance, cinematic landing page for a fictional electric supercar brand. Built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies.
 
-![VLTX Motors](https://img.shields.io/badge/HTML-CSS-JS-black?style=flat-square&logo=html5&logoColor=red)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
 
 ---
